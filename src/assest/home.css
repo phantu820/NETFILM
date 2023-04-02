@@ -1,0 +1,114 @@
+ Style the Nav component 
+Nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f2f2;
+    padding: 10px;
+ 
+  }
+  
+ 
+  Nav Button {
+    margin-right: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+  }
+  
+
+  Nav Button.primary {
+    background-color: #007bff;
+    color: #fff;
+  }
+
+ 
+  Nav Button.outline-primary {
+    background-color: #fff;
+    border: 2px solid #007bff;
+    color: #007bff;
+  }
+  navbar-nav{
+    text-align: end;
+  }
+  .left-home{
+    margin-left: 50px;
+  }
+
+ .col-8{
+    margin: 30px 0 0 140px;
+    
+ }
+  .col-3 {
+    margin: 15px 10px 20px 30px;
+    border: 1px solid #ccc;
+    border-radius: 2%;
+    background-color: #f5f5f5;
+  }
+ 
+
+  .col-3 h5 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+   margin-left: 20px;
+  }
+  
+  .col-3 p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    margin-left: 20px;
+    align-items: center;
+
+  }
+  
+  .review-btn {
+    margin-top: 1rem;
+  }
+  .review-btn{
+    
+    margin: 0 30px 20px 65px;
+  }
+/* Style the column */
+.col-2 {
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    margin-left: 20px;
+  }
+  
+  .col-2 h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+  }
+  
+  .col-2 ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 40px;
+  }
+  
+  .col-2 li {
+    margin-bottom: 10px;
+  }
+  
+  .col-2 a {
+    display: block;
+    padding: 10px;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .col-2 a:hover {
+    background-color: #333;
+    color: #fff;
+  }
+
+ 
