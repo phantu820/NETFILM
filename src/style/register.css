@@ -1,0 +1,78 @@
+.register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.register form {
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  background-color: #96D6FF;
+}
+
+.register h1 {
+  color: white;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: none;
+  border-bottom: 2px solid #ddd;
+  font-size: 1rem;
+  outline: none;
+}
+input[type="email"]::-webkit-input-placeholder,
+input[type="password"]::-webkit-input-placeholder,
+input[type="text"]::-webkit-input-placeholder {
+  color: #666;
+}
+
+.register #gender {
+  color: white;
+  display: flex;
+  width: 100%;
+  margin-bottom: 20px;
+  justify-content: space-around;
+}
+
+.register p {
+  color: white;
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.register p a {
+  color: yellow;
+  text-decoration: underline;
+}
+
+.register p a:hover {
+  color: orange;
+}
+.register .submit-btn {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 30px;
+  background-color: rgb(0, 132, 255);
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+}

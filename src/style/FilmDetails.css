@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.comment_detail {
+    font-weight: normal;
+    margin: 0 8px;
+}
+.btnbut {
+    display: block;
+    margin: 10px 0;
+}
+.fimdetail {
+    display: flex;  
+}
+.content {
+    margin: 3vh 8vw;
+}
+.img {
+    width: 20vw;
+    height: outo;
+}
+.img img {
+    width: 20vw;
+    height: auto;
+}
+.moreInfor {
+    width: 60vw;
+    padding-left: 10vw;
+}
+.fwnomal {
+    font-weight: normal;
+    margin-left: 2px;
+}
+textarea {
+    resize: none;
+    padding: 10px 10px;
+    width: 100%;
+}
+.rateAndScore {
+    margin-top: 5vh;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+    margin-top: 20px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #999;
+    border-radius: 5px;
+  }
+  .comment {
+    margin-top: 10vh;
+  }

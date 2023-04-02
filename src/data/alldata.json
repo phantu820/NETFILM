@@ -1,0 +1,73 @@
+[
+    {"id":1,
+    "title":"Tình cảm",
+    "film":[{
+        "id":1,
+        "name":"Về nhà đi con",
+        "year":2021,
+        "description":"Về Nhà Đi Con làastrhveiguh igouiwergi qiou giwerhiuhiau egiuahiuhiurefiuaw fiuwg gf   u",
+        "img":"https://toquoc.mediacdn.vn/thumb_w/640/2019/12/5/poster-phim-ve-nha-di-con-1575534082108391788397.jpg",
+        "comment":[
+            {"id":1,"userid":1,"score":8,"comment":"Phim khá cảm động"},
+            {"id":2,"userid":2,"score":8,"comment":"Phim hay nhưng chưa lấy được nước mắt của tại hạ"},
+            {"id":3,"userid":3,"score":5,"comment":"Thích xem phim kiếm hiệp hơn :((("},
+            {"id":4,"userid":4,"score":9,"comment":"Tuy không phải thể loại phim mình thích nhưng khá hay đấy !!"}
+        ]
+    },{
+        "id":2,
+        "name":"Thần Tượng Vô Danh",
+        "year":2023,
+        "description":"Thần Tượng Vô Danh",
+            "img":"https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fthan-tuong-vo-danh-10978.jpg%3F1678987831",
+        "comment":[ {"id":5,"userid":1,"score":10,"comment":"Hay quá <3 <3 !!"}]
+    },{
+        "id":3,
+        "name":"Rừng Hoa Rực Lửa",
+        "year":2022,
+        "description":"Rừng Hoa Rực Lửa kể ",
+           "img":"https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Frung-hoa-ruc-lua-10785.jpg%3F1674574189",
+        "comment":[{"id":6,"userid":2,"score":5,"comment":"Chán !!"},{"id":7,"userid":4,"score":9,"comment":"Cũng được !!"}]
+    },{
+        "id":4,
+        "name":"Tiếng Sét Trong Mưa",
+        "year":2019,
+        "description":
+        "Tiếng Sét Trong Mưa lấy bối ",
+            "img":"https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Ftieng-set-trong-mua-7210.jpg%3F1572704244",
+        "comment":[]
+    }]},
+    {"id":2,
+    "title":"Kinh dị",
+    "film":[{
+        "id":3,
+        "name":"Đoạt Hồn",
+        "year":2023,
+        "description":"Đoạt Hồn kể về bé Ái ",
+           "img":"https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fdoat-hon-7740.jpg%3F1581235808",
+        "comment":[
+            {"id":9,"userid":1,"score":10,"comment":"Tuyệt vời"},
+            {"id":10,"userid":2,"score":10,"comment":"Phim rất hay"},
+            {"id":11,"userid":3,"score":5,"comment":"Phim không hay"},
+            {"id":12,"userid":4,"score":4,"comment":"Phim chán"}
+        ]
+    }]},
+    {"id":3,
+    "title":" Gia Đình - Học Đường",
+    "film":[{
+        "id":1,
+        "name":"Hải Trình Của JESSICA",
+        "year":2022,
+        "description":"Hải Trình Của Jessica",    "img":"https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fhai-trinh-cua-jessica-10960.jpg%3F1676107007",
+        "comment":[]
+    },{
+        "id":2,
+        "name":"Ngôi Trường Xác Sống",
+        "year":2022,
+        "description":"Ngôi Trường Xác Sống kể ",
+             "img":"https://mp-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=604800&url=https%3A%2F%2Fi0.wp.com%2Fimage.mpapis.xyz%2Fposter%2Fngoi-truong-xac-song-9785.jpg%3F1643536635",
+        "comment":[{"id":13,"userid":1,"score":10,"comment":"Tuyệt vời, rất xứng đáng"},
+        {"id":14,"userid":2,"score":10,"comment":"Phim rất hay"},
+        {"id":15,"userid":3,"score":8,"comment":"Phim hay"},
+        {"id":16,"userid":4,"score":8,"comment":"Phim kịch tính"}]
+    }]}
+]

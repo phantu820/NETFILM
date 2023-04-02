@@ -1,0 +1,6 @@
+[
+    {"id":1,"email":"thangnhhe161517@gmail.com","password":"12345678","fullname":"Nguyễn Hữu Thắng","gender":"nam"},
+    {"id":2,"email":"user1@gmail.com","password":"12345678","fullname":"Độc cô cầu bại","gender":"nữ"},
+    {"id":3,"email":"user2@gmail.com","password":"12345678","fullname":"Đông Phương Bất Bại","gender":"nam"},
+    {"id":4,"email":"user3@gmail.com","password":"12345678","fullname":"Hàn Tuyệt","gender":"nam"}
+]
